@@ -1,1 +1,15 @@
-Alexandria, a personal library
+================================
+ Alexandria, a personal library
+================================
+
+Concept
+=======
+Get (pdf)file from disk, extract metadata (name, author, ...) & add to database.
+Full-text search to find docs.
+
+Buzzwords
+=========
+Clojure
+CouchDB (or LilyCMS?)
+Solr
+ 
